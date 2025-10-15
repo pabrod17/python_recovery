@@ -3,6 +3,11 @@
 ## Description
 Python automation script for processing Excel files. The program applies a 10% discount to prices and generates a bar chart with the results.
 
+## Snapshots
+![](./automation/automation2.png)
+
+![](./automation/automation3.png)
+
 ## Features
 - Excel file reading
 - Automatic discount application
